@@ -1,0 +1,71 @@
+.icon-small {
+  display: inline; 
+  width: 24px;
+  height: 24px;
+  margin-right: 10px; 
+}
+
+.icon-medium {
+    
+    width: 100px; 
+    height: 100px;
+    padding: 2px; 
+}
+
+.popup-header {
+    font-family: 'Lexend Deca', sans-serif;
+    text-align: center;
+    color: #2E475D;
+    background-color:rgb(161, 195, 219);
+    padding:6px;
+}
+  
+.popup-container {
+    font-family: 'Lexend Deca', sans-serif;
+    text-align: left;
+    font-size: medium;
+    color: rgb(161, 195, 219);
+    background-color:rgb(39, 91, 127);
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+}
+
+.equation {
+    font-family: 'Lexend Deca', sans-serif;
+    text-align: left;
+    font-size: 10px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    color: rgb(171, 200, 171);
+
+}
+
+.rating {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Lexend Deca', sans-serif;
+    color: rgb(171, 200, 171);
+    padding-top: 5px;
+}
+
+.extension-name {
+    text-align: center;
+    font-size: 10px;
+}
+
+.popup-table {
+    font-family: 'Lexend Deca', sans-serif;
+    background-color:rgb(161, 195, 219);
+    text-align: left;
+    padding: 5px;
+}
+
+table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 100%;
+    border: 20px;
+    font-size: 10px;
+}
+
